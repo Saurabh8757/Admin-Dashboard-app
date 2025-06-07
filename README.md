@@ -29,19 +29,8 @@ This project is a **React Admin Dashboard** application featuring customizable t
 
 ---
 
-## Project Structure
-
-src/
-├── components/          # Reusable UI components (Navbar, Sidebar, Charts, Tables, Kanban, Calendar, etc.)
-├── contexts/            # React Context API for global state management
-├── data/                # Dummy data for tables, charts, Kanban tasks, etc.
-├── pages/               # Page level components (Dashboard, User Profile, etc.)
-├── styles/              # Tailwind CSS config and custom styles
-├── App.js               # Main app component and routing setup
-└── index.js             # Entry point with Syncfusion license registration
-
 
 1. **Clone the repository:**
    ```bash
-   git clone 
+   git clone https://github.com/Saurabh8757/Admin-Dashboard-app.git
    cd react-admin-dashboard
